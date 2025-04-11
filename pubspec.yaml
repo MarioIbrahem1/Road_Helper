@@ -29,6 +29,7 @@ dependencies:
   location: ^5.0.0 # تحديث
   flutter_polyline_points: ^2.0.0 # تحديث
   flutter_launcher_icons: ^0.9.2
+  provider: ^6.1.4
 
 dev_dependencies:
   flutter_test:
